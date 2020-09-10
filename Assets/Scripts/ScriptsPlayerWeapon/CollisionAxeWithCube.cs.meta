@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e26fd8800f8caa408c5911130178185
+timeCreated: 1481858375
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - axeTouchThisProject: {instanceID: 0}
+  - axe1: {fileID: 4300132, guid: 4f4f10efa710393478afa047990dfb5f, type: 3}
+  - axe2: {fileID: 4300134, guid: 4f4f10efa710393478afa047990dfb5f, type: 3}
+  - axe3: {fileID: 4300102, guid: 4f4f10efa710393478afa047990dfb5f, type: 3}
+  - axe4: {fileID: 4300074, guid: 4f4f10efa710393478afa047990dfb5f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

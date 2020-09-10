@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7a1ba4b329f2c184c8fddd3f43a0471a
+timeCreated: 1483238215
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cloneAxe: {instanceID: 0}
+  - WeaponAxe1: {fileID: 1527955581262218, guid: 69ed9606224fb404c84a524da96ba1be,
+      type: 2}
+  - crashDustCube: {fileID: 8300000, guid: 3b09d59f4499d45428baa7a21e954296, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

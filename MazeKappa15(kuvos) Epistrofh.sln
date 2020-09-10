@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FD6D2631-8C74-0673-69CB-86A4974D0157}") = "MazeKappa15(kuvos) Epistrofh", "Assembly-CSharp-firstpass.csproj", "{446C669D-AE16-413A-9D99-C04AE1E94808}"
+EndProject
+Project("{FD6D2631-8C74-0673-69CB-86A4974D0157}") = "MazeKappa15(kuvos) Epistrofh", "Assembly-CSharp.csproj", "{F477A60C-472D-F354-5221-20BFAF6B380F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446C669D-AE16-413A-9D99-C04AE1E94808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446C669D-AE16-413A-9D99-C04AE1E94808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446C669D-AE16-413A-9D99-C04AE1E94808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446C669D-AE16-413A-9D99-C04AE1E94808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F477A60C-472D-F354-5221-20BFAF6B380F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F477A60C-472D-F354-5221-20BFAF6B380F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F477A60C-472D-F354-5221-20BFAF6B380F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F477A60C-472D-F354-5221-20BFAF6B380F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
